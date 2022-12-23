@@ -1,23 +1,34 @@
 import  express from "express";
 import dotenv from "dotenv";
 import mongoose from "mongoose";
+import route from "./router/route.js";
+
+
 
 dotenv.config()
 const app=express()
+
+
 
 app.use(express.json())
 
 
 // database
+const URL=process.env.URL
 mongoose.set('strictQuery', true);
-mongoose.connect("mongodb+srv://ajitkerle:2R693j4kFokYqNZJ@cluster0.djs4ptj.mongodb.net/HMS-DB?retryWrites=true&w=majority",
+mongoose.connect(URL,
     {
       useNewUrlParser: true,
+      useUnifiedTopology:true
     }
   )
   .then(() => console.log("MongoDB is connected successfully........"))
 .catch((err) => console.log(err));
 
+
+app.use("/",route)
+
+// image storing 
 
 
 // server 

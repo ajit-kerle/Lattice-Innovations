@@ -6,7 +6,10 @@ const patientSchema=new mongoose.Schema({
     email:{type:String, required:true},
     phone:{type:String, required:true},
     password:{type:String, required:true},
-    patientImage:{type:String, required:true},
+    patientImage:{
+        data:Buffer,
+        contentType:String,
+    },
 },{timestamps:true})
 
 const patient=mongoose.model("patient",patientSchema)
