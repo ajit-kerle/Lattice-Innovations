@@ -7,7 +7,7 @@ const router=express.Router()
 
 
 router.post("/registration",upload.single("patientImage"),createPatient)
-router.get("/getAllPsychuatrist",fetchAllPsychiatrist)
+router.get("/getAllPsychuatrist/:hospitalId",fetchAllPsychiatrist)
 
 // creating  hospital name
 router.post("/createHospital",createHospital)

@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "63a5a75c0c9320900ac0faee"
+  },
+  "hospital_name": "Apollo Hospitals",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671800668639"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671800668639"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a5a79a0c9320900ac0faf0"
+  },
+  "hospital_name": "Jawaharlal Nehru Medical College and Hospital",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671800730610"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671800730610"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a5a7af0c9320900ac0faf2"
+  },
+  "hospital_name": "Indira Gandhi Institute of Medical Sciences (IGIMS)",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671800751324"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671800751324"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a5a7c20c9320900ac0faf4"
+  },
+  "hospital_name": "AIIMS - All India Institute Of Medical Science",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671800770824"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671800770824"
+    }
+  },
+  "__v": 0
+}]

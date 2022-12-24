@@ -1,0 +1,1121 @@
+[{
+  "_id": {
+    "$oid": "63a5bbac251f430bfffcee65"
+  },
+  "name": "Dr more",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a59a54034ef811cfda71a3"
+      },
+      "_id": {
+        "$oid": "63a5bbac251f430bfffcee66"
+      }
+    },
+    {
+      "patientId": {
+        "$oid": "63a59a54034ef811cfda71a3"
+      },
+      "_id": {
+        "$oid": "63a5bbac251f430bfffcee67"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a75c0c9320900ac0faee"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671805868978"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671805868978"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a5bbee251f430bfffcee69"
+  },
+  "name": "Dr subhash",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a59c6e034ef811cfda71a5"
+      },
+      "_id": {
+        "$oid": "63a5bbee251f430bfffcee6a"
+      }
+    },
+    {
+      "patientId": {
+        "$oid": "63a59c6e034ef811cfda71a5"
+      },
+      "_id": {
+        "$oid": "63a5bbee251f430bfffcee6b"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a75c0c9320900ac0faee"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671805934831"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671805934831"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a5bc1c251f430bfffcee6d"
+  },
+  "name": "Dr sonsale",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a59eb3034ef811cfda71ab"
+      },
+      "_id": {
+        "$oid": "63a5bc1c251f430bfffcee6e"
+      }
+    },
+    {
+      "patientId": {
+        "$oid": "63a59eb3034ef811cfda71ab"
+      },
+      "_id": {
+        "$oid": "63a5bc1c251f430bfffcee6f"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a75c0c9320900ac0faee"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671805980990"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671805980990"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a5bc49251f430bfffcee71"
+  },
+  "name": "Dr soniya",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a59f35034ef811cfda71af"
+      },
+      "_id": {
+        "$oid": "63a5bc49251f430bfffcee72"
+      }
+    },
+    {
+      "patientId": {
+        "$oid": "63a59f35034ef811cfda71af"
+      },
+      "_id": {
+        "$oid": "63a5bc49251f430bfffcee73"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a75c0c9320900ac0faee"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671806025760"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671806025760"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a5bc6c251f430bfffcee75"
+  },
+  "name": "Dr singhania",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a59fa7034ef811cfda71b3"
+      },
+      "_id": {
+        "$oid": "63a5bc6c251f430bfffcee76"
+      }
+    },
+    {
+      "patientId": {
+        "$oid": "63a59fa7034ef811cfda71b3"
+      },
+      "_id": {
+        "$oid": "63a5bc6c251f430bfffcee77"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a75c0c9320900ac0faee"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671806060300"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671806060300"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a5bc8c251f430bfffcee79"
+  },
+  "name": "Dr lodha",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a5a055034ef811cfda71b7"
+      },
+      "_id": {
+        "$oid": "63a5bc8c251f430bfffcee7a"
+      }
+    },
+    {
+      "patientId": {
+        "$oid": "63a5a055034ef811cfda71b7"
+      },
+      "_id": {
+        "$oid": "63a5bc8c251f430bfffcee7b"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a75c0c9320900ac0faee"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671806092484"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671806092484"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a5bca8251f430bfffcee7d"
+  },
+  "name": "Dr dinkar",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a5a0ac034ef811cfda71b9"
+      },
+      "_id": {
+        "$oid": "63a5bca8251f430bfffcee7e"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a75c0c9320900ac0faee"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671806120743"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671806120743"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a67ee2ffab3da5bb501572"
+  },
+  "name": "Dr desai",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a67df8ffab3da5bb501570"
+      },
+      "_id": {
+        "$oid": "63a67ee2ffab3da5bb501573"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a79a0c9320900ac0faf0"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671855842875"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671855842875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a67f0cffab3da5bb501575"
+  },
+  "name": "Dr root",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a67ddcffab3da5bb50156e"
+      },
+      "_id": {
+        "$oid": "63a67f0cffab3da5bb501576"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a79a0c9320900ac0faf0"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671855884659"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671855884659"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a67f21ffab3da5bb501578"
+  },
+  "name": "Dr morgan",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a67d9a1e5fc75b2c9f0391"
+      },
+      "_id": {
+        "$oid": "63a67f21ffab3da5bb501579"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a79a0c9320900ac0faf0"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671855905425"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671855905425"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a67f34ffab3da5bb50157b"
+  },
+  "name": "Dr stella",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a67b13861db2053be885fd"
+      },
+      "_id": {
+        "$oid": "63a67f34ffab3da5bb50157c"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a79a0c9320900ac0faf0"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671855924764"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671855924764"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a67f4dffab3da5bb50157e"
+  },
+  "name": "Dr deepika",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a67af9861db2053be885fb"
+      },
+      "_id": {
+        "$oid": "63a67f4dffab3da5bb50157f"
+      }
+    },
+    {
+      "patientId": {
+        "$oid": "63a67af9861db2053be885fb"
+      },
+      "_id": {
+        "$oid": "63a67f4dffab3da5bb501580"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a79a0c9320900ac0faf0"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671855949149"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671855949149"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a67f74ffab3da5bb501582"
+  },
+  "name": "Dr sethi",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a67af9861db2053be885fb"
+      },
+      "_id": {
+        "$oid": "63a67f74ffab3da5bb501583"
+      }
+    },
+    {
+      "patientId": {
+        "$oid": "63a67af9861db2053be885fb"
+      },
+      "_id": {
+        "$oid": "63a67f74ffab3da5bb501584"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a79a0c9320900ac0faf0"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671855988847"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671855988847"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a67fa2ffab3da5bb501586"
+  },
+  "name": "Dr moore",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a5a276034ef811cfda71c9"
+      },
+      "_id": {
+        "$oid": "63a67fa2ffab3da5bb501587"
+      }
+    },
+    {
+      "patientId": {
+        "$oid": "63a5a276034ef811cfda71c9"
+      },
+      "_id": {
+        "$oid": "63a67fa2ffab3da5bb501588"
+      }
+    },
+    {
+      "patientId": {
+        "$oid": "63a5a276034ef811cfda71c9"
+      },
+      "_id": {
+        "$oid": "63a67fa2ffab3da5bb501589"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a79a0c9320900ac0faf0"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671856034869"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671856034869"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a67fd3ffab3da5bb50158b"
+  },
+  "name": "Dr moore",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a5a276034ef811cfda71c9"
+      },
+      "_id": {
+        "$oid": "63a67fd3ffab3da5bb50158c"
+      }
+    },
+    {
+      "patientId": {
+        "$oid": "63a5a276034ef811cfda71c9"
+      },
+      "_id": {
+        "$oid": "63a67fd3ffab3da5bb50158d"
+      }
+    },
+    {
+      "patientId": {
+        "$oid": "63a5a276034ef811cfda71c9"
+      },
+      "_id": {
+        "$oid": "63a67fd3ffab3da5bb50158e"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a7af0c9320900ac0faf2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671856083156"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671856083156"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a67ffaffab3da5bb501590"
+  },
+  "name": "Dr moore",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a67af9861db2053be885fb"
+      },
+      "_id": {
+        "$oid": "63a67ffaffab3da5bb501591"
+      }
+    },
+    {
+      "patientId": {
+        "$oid": "63a67af9861db2053be885fb"
+      },
+      "_id": {
+        "$oid": "63a67ffaffab3da5bb501592"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a7af0c9320900ac0faf2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671856122176"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671856122176"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a68016ffab3da5bb501594"
+  },
+  "name": "Dr devid cancy",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a67af9861db2053be885fb"
+      },
+      "_id": {
+        "$oid": "63a68016ffab3da5bb501595"
+      }
+    },
+    {
+      "patientId": {
+        "$oid": "63a67af9861db2053be885fb"
+      },
+      "_id": {
+        "$oid": "63a68016ffab3da5bb501596"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a7af0c9320900ac0faf2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671856150523"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671856150523"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a6802effab3da5bb501598"
+  },
+  "name": "Dr devid cancy",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a679ff5eab32432085368e"
+      },
+      "_id": {
+        "$oid": "63a6802effab3da5bb501599"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a7af0c9320900ac0faf2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671856174735"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671856174735"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a68040ffab3da5bb50159b"
+  },
+  "name": "Dr devid ",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a679e55eab32432085368c"
+      },
+      "_id": {
+        "$oid": "63a68040ffab3da5bb50159c"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a7af0c9320900ac0faf2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671856192889"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671856192889"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a68059ffab3da5bb50159e"
+  },
+  "name": "Dr landage",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a678cf5eab32432085368a"
+      },
+      "_id": {
+        "$oid": "63a68059ffab3da5bb50159f"
+      }
+    },
+    {
+      "patientId": {
+        "$oid": "63a678cf5eab32432085368a"
+      },
+      "_id": {
+        "$oid": "63a68059ffab3da5bb5015a0"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a7af0c9320900ac0faf2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671856217108"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671856217108"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a680b4ffab3da5bb5015a7"
+  },
+  "name": "Dr roam",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a677970c4d2f80e96e9746"
+      },
+      "_id": {
+        "$oid": "63a680b4ffab3da5bb5015a8"
+      }
+    },
+    {
+      "patientId": {
+        "$oid": "63a677970c4d2f80e96e9746"
+      },
+      "_id": {
+        "$oid": "63a680b4ffab3da5bb5015a9"
+      }
+    },
+    {
+      "patientId": {
+        "$oid": "63a677970c4d2f80e96e9746"
+      },
+      "_id": {
+        "$oid": "63a680b4ffab3da5bb5015aa"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a7af0c9320900ac0faf2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671856308210"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671856308210"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a680e4ffab3da5bb5015ac"
+  },
+  "name": "Dr roam",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a677e25fd72cf2ff871239"
+      },
+      "_id": {
+        "$oid": "63a680e4ffab3da5bb5015ad"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a7c20c9320900ac0faf4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671856356159"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671856356159"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a680f4ffab3da5bb5015af"
+  },
+  "name": "Dr roam",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a678cf5eab32432085368a"
+      },
+      "_id": {
+        "$oid": "63a680f4ffab3da5bb5015b0"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a7c20c9320900ac0faf4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671856372647"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671856372647"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a68113ffab3da5bb5015b2"
+  },
+  "name": "Dr roam1",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a679e55eab32432085368c"
+      },
+      "_id": {
+        "$oid": "63a68113ffab3da5bb5015b3"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a7c20c9320900ac0faf4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671856403494"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671856403494"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a6812cffab3da5bb5015b5"
+  },
+  "name": "Dr rinki",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a679ff5eab32432085368e"
+      },
+      "_id": {
+        "$oid": "63a6812cffab3da5bb5015b6"
+      }
+    },
+    {
+      "patientId": {
+        "$oid": "63a679ff5eab32432085368e"
+      },
+      "_id": {
+        "$oid": "63a6812cffab3da5bb5015b7"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a7c20c9320900ac0faf4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671856428777"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671856428777"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a6813fffab3da5bb5015b9"
+  },
+  "name": "Dr roy",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a67a2f5eab324320853690"
+      },
+      "_id": {
+        "$oid": "63a6813fffab3da5bb5015ba"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a7c20c9320900ac0faf4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671856447841"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671856447841"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a68160ffab3da5bb5015bc"
+  },
+  "name": "Dr roy",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a67d9a1e5fc75b2c9f0391"
+      },
+      "_id": {
+        "$oid": "63a68160ffab3da5bb5015bd"
+      }
+    },
+    {
+      "patientId": {
+        "$oid": "63a67d9a1e5fc75b2c9f0391"
+      },
+      "_id": {
+        "$oid": "63a68160ffab3da5bb5015be"
+      }
+    },
+    {
+      "patientId": {
+        "$oid": "63a67d9a1e5fc75b2c9f0391"
+      },
+      "_id": {
+        "$oid": "63a68160ffab3da5bb5015bf"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a7c20c9320900ac0faf4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671856480406"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671856480406"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a6816dffab3da5bb5015c1"
+  },
+  "name": "Dr roy jimmy",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a67d9a1e5fc75b2c9f0391"
+      },
+      "_id": {
+        "$oid": "63a6816dffab3da5bb5015c2"
+      }
+    },
+    {
+      "patientId": {
+        "$oid": "63a67d9a1e5fc75b2c9f0391"
+      },
+      "_id": {
+        "$oid": "63a6816dffab3da5bb5015c3"
+      }
+    },
+    {
+      "patientId": {
+        "$oid": "63a67d9a1e5fc75b2c9f0391"
+      },
+      "_id": {
+        "$oid": "63a6816dffab3da5bb5015c4"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a7c20c9320900ac0faf4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671856493015"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671856493015"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a68228ffab3da5bb5015c6"
+  },
+  "name": "Dr roy jimmy",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a594ab0bafbff0c3f1041e"
+      },
+      "_id": {
+        "$oid": "63a68228ffab3da5bb5015c7"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a7c20c9320900ac0faf4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671856680076"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671856680076"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a6823affab3da5bb5015c9"
+  },
+  "name": "Dr roito",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a59a54034ef811cfda71a3"
+      },
+      "_id": {
+        "$oid": "63a6823affab3da5bb5015ca"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a7c20c9320900ac0faf4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671856698423"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671856698423"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a68252ffab3da5bb5015cc"
+  },
+  "name": "Dr roito",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a59c6e034ef811cfda71a5"
+      },
+      "_id": {
+        "$oid": "63a68252ffab3da5bb5015cd"
+      }
+    },
+    {
+      "patientId": {
+        "$oid": "63a59c6e034ef811cfda71a5"
+      },
+      "_id": {
+        "$oid": "63a68252ffab3da5bb5015ce"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a7c20c9320900ac0faf4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671856722725"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671856722725"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a6826affab3da5bb5015d0"
+  },
+  "name": "Dr royal",
+  "patient_details": [
+    {
+      "patientId": {
+        "$oid": "63a59e58034ef811cfda71a9"
+      },
+      "_id": {
+        "$oid": "63a6826affab3da5bb5015d1"
+      }
+    },
+    {
+      "patientId": {
+        "$oid": "63a59e58034ef811cfda71a9"
+      },
+      "_id": {
+        "$oid": "63a6826affab3da5bb5015d2"
+      }
+    }
+  ],
+  "hospital_id": {
+    "$oid": "63a5a7c20c9320900ac0faf4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671856746455"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671856746455"
+    }
+  },
+  "__v": 0
+}]
