@@ -9,25 +9,25 @@ Lattice Innovations
 # List of all the major libraries/frameworks
 
 1. dotenv
-  a. To store all enviroment variable securely
+  To store all enviroment variable securely
 2. express
-  a  Express is a node js web application framework 
-  b. To create routing and endpoints and middleware 
+  Express is a node js web application framework 
+  To create routing and endpoints and middleware 
 3. multer
-  a. Multer is a node.js middleware for handling multipart/form-data and user files
+  Multer is a node.js middleware for handling multipart/form-data and user files
 4. nodemon
-  a. nodemon is a command-line interface 
-  b. It simply restarts the node application whenever it observes the changes 
+  nodemon is a command-line interface 
+  It simply restarts the node application whenever it observes the changes 
 5.  mongoose
-   a. Mongoose is a MongoDB object modeling tool
-   b. mongoose is used for structuring schema and connecting with mongodb
+   Mongoose is a MongoDB object modeling tool
+   mongoose is used for structuring schema and connecting with mongodb
 
 
 # List of API endpoints and postman collection link
 
 1. API endpoints
-  a. localhost:8080/registration # creating patient
-  b. localhost:8080/getAllPsychuatrist/:hospitalId // getting all psychiatrist of hospital
+  localhost:8080/registration # creating patient
+  localhost:8080/getAllPsychuatrist/:hospitalId // getting all psychiatrist of hospital
 
 2. postman collection link
  
